@@ -14,6 +14,7 @@ function App() {
     <>
       {showLogin ? <LoginPopup setShowLogin={setShowLogin} /> : <></>}
       <div className='app'>
+        {/* {        Routing */}
         <Navbar setShowLogin={setShowLogin} />
         <Routes>
           <Route path='/' element={<Home />}></Route>
