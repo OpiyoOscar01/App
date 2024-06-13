@@ -1,7 +1,7 @@
 {
-  "homepage": "http://OpiyoOscar01.github.io//App",
+  "homepage": "http://OpiyoOscar01.github.io/App",
   "name": "app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
